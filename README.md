@@ -1,5 +1,11 @@
 # go-prophecy-issues
 
+**OBSOLETE**
+
+With GoProphecy now live, please file all issues at https://github.com/prophecymud/prophecy-issues/issues
+
+---
+
 Issue tracker for GoProphecy.
 
 [Please file any and all bugs you find here](https://github.com/prophecymud/go-prophecy-issues/issues/new).
